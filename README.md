@@ -1,5 +1,9 @@
 # Frontend Fall 2020
 
+# Walkthrough
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ### Requirements
 - Android Studio (AVD Manager)
 - Node.js
